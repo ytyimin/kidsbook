@@ -1,3 +1,3 @@
-# aor_vol_2
-repository for the second volume of AOR
-https://ytyimin.github.io/aor_vol_2/
+# kids book
+repository for the kids book
+https://ytyimin.github.io/kidsbook/
